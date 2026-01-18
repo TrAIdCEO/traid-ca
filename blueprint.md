@@ -10,7 +10,8 @@ This project is a Next.js application that will serve as the website for traid.c
 * Git repository setup and initial commit.
 
 ## Development Plan
-
+* **Phase 0: Component Library**
+    * Fork https://github.com/shadcn-ui/ui
 * **Phase 1: Foundation**
     * Create a visually appealing and responsive landing page.
     * Implement a clear and intuitive navigation structure.
